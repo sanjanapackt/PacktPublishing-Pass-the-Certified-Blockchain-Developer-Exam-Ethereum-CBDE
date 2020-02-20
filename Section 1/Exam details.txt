@@ -1,0 +1,69 @@
+Exam Details
+Certified Blockchain Developer - Ethereum (CBDE)
+
+Exam Link: https://blockchaintrainingalliance.com/products/cbde
+
+Exam Cost: $300 USD ($20 Off Exclusive Coupon Code: TW04211820OFF)
+Number of Questions: 70 Questions
+Passing Score: 60 Correct Questions
+Time Allotted: 90 minutes to complete exam
+Exam Location: Pearson VUE - Global
+Exam Language: English
+
+The Certified Blockchain Developer - Ethereum (CBDE) exam is an elite way to demonstrate your knowledge and skills in this emerging space.  Additionally, you will become a member of a community of Blockchain leaders. With certification comes monthly industry updates via email and video.
+
+The CBDE exam is a 70 question multiple-choice exam that lasts 1.5 hours and is performance-based evaluation of Ethereum Development skills and knowledge.  Internet access is not provided during the exam, nor is any course material or study guides.
+
+A person who holds this certification demonstrates their ability to:
+
+Plan and prepare production ready applications for the Ethereum blockchain
+Write, test, and deploy secure Solidity smart contracts
+Understand and work with Ethereum fees
+Work within the bounds and limitations of the Ethereum blockchain
+Use the essential tooling and systems needed to work with the Ethereum ecosystem
+This exam will prove that a student completely understands how to:
+
+Implement web3.js
+Write and compile Solidity smart contracts
+Create secure smart contracts
+Deploy smart contracts both the live and test Ethereum networks
+Calculate Ethereum gas costs
+Unit test smart contracts
+Run an Ethereum node on development machines
+Scores and Reporting
+
+Official scores for exams come immediately following the exam from Pearson VUE. A passing score is 85% (60 questions answered correctly). Exam results are reported PASS/FAIL and you will be provided your percentage. Blockchain Training Alliance does not report scores on individual items, nor will it provide additional information upon request.
+
+Exam Retake Policy
+
+A student who does not pass an exam must wait at least 48 hours to retake the exam
+A student must wait 14-days for each subsequent attempt
+A student who has passed a certain exam may not take the same exam (defined as an exam of the same version with the same exam number) again within 12 months of when the exam was passed. A student who wishes to take the exam again in order to re-certify may do so after the 12-month period.
+ID Requirements
+
+To maintain the highest level of security and authentication, all Blockchain Training Alliance score reports provided at Pearson VUE testing center will include a photo of the candidate. Test Center Administrators are required to take a photograph of each candidate prior to testing. Candidates who do not wish to have their picture taken will need to contact certification@blockchaintrainingalliance.com 14 business days in advance of the exam.
+
+Carefully review the ID requirements prior to your exam appointment.
+
+How To Register For An Exam
+
+You can purchase an exam voucher online now or Sign in or Create an Account with Pearson VUE. Exam appointments may be made in advance or on the day you wish to test, subject to availability. The exam/appointment testing time limit noted on Pearson VUE web pages reflects the total appointment time, including an NDA, exam time, and survey.
+
+Please use your Legal name as displayed on your government issued IDs. Your first name, last name, the use or not of a middle initial, and your email address must match exactly in these two profiles. Please also use your Business email address as your primary address. Login to your account, select an exam, select a location, and then register for a seat.
+
+FAQs
+
+My certificate has my name spelled incorrectly, how can I get this fixed?
+Send an email to certification@blockchaintrainingalliance.com Be sure to include the correct spelling of your name and copy of government issued ID.
+
+How often are changes made to the exam?
+Blockchain Training Alliance has an obligation to its membership to maintain the relevancy of its credentials; exams are routinely updated and may happen as often as once a month. These enhancements are the result of a rigorous, methodical process we follow to routinely update its credential exams.
+
+How often do I need to Recertify?
+Your certification expires two years to the date you take and pass the exam.
+
+I lost my coin, can I be issued another one? 
+Please contact certification@blockchaintrainingalliance.com to request a new coin and holder. There is a $35 charge for a new token.
+
+I never received my certificate in the mail/or/How long does it take to receive my certificate in the mail?
+Please allow 2-4 weeks to receive your training package, including certification token.
